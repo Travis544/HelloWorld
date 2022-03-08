@@ -103,8 +103,8 @@
 				1FDA0C2327D7C67F00086BFA /* SceneDelegate.swift */,
 				1FDA0C2527D7C67F00086BFA /* ViewController.swift */,
 				1FDA0C2727D7C67F00086BFA /* Main.storyboard */,
-				1FDA0C2A27D7C68000086BFA /* Assets.xcassets */,
 				1FDA0C2C27D7C68000086BFA /* LaunchScreen.storyboard */,
+				1FDA0C2A27D7C68000086BFA /* Assets.xcassets */,
 				1FDA0C2F27D7C68000086BFA /* Info.plist */,
 			);
 			path = HelloWorld;
